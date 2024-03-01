@@ -1,3 +1,13 @@
+/*Gabriel Gonzales
+Daniel Rodriguez
+Laisa Solis
+Este es el codigo del proyecto 2, este codigo
+recibe dos ecuaciones cuadraticas, encuentra
+un subdominio en el que el error es menor 
+que el buscado y grafica las ecuaciones y
+el subdominio
+*/
+
 /*
 Se incluyen las librerías necesarias para el funcionamiento
 del código, por ejemplo para operaciones matemáticas se tiene

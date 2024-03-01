@@ -1,3 +1,11 @@
+/*Gabriel Gonzales
+Daniel Rodriguez
+Laisa Solis
+Este es el codigo del proyecto 1, el cual
+crea el codigo para jugar gato y lo acopla
+a la interfaz grafica creada por glade.
+*/
+
 #include <gtk/gtk.h>
 #include <stdlib.h>
 
